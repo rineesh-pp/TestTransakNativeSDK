@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@transak/react-native-sdk": {
+      "signature": "47cdfa7ca0dec1fea96316aaf6990d16",
+      "file": true
+    }
+  }
+}
